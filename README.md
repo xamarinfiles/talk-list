@@ -1,4 +1,4 @@
-# Presentations for Andy Lech and XamarinFiles.com
+# Presentations for Andy Lech and The Xamarin Files
 
 Demos and slide decks from different presentations about mobile development
 
@@ -13,5 +13,5 @@ Demos and slide decks from different presentations about mobile development
 | 4/8/17 | 2017 Orlando Code Camp | From Microsoft to Mobile | Presented | [Orlando&nbsp;Code&nbsp;Camp](https://web.archive.org/web/20170412025958/http://www.orlandocodecamp.com:80/sessions/index/?timeslot=3) <br /> [GitHub](https://github.com/xamarinfiles/presentations/tree/master/FromMicrosoftToMobile) |
 | 4/29/17 | Xamarin Dev Days - Jacksonville | Xamarin.Forms | Presented | [Meetup](https://www.meetup.com/NFLXUG/events/238822623/) <br /> [Xamarin](https://ti.to/xamarin/dev-days-jacksonville-2017) | 
 | 6/24/17 | Xamarin Dev Days - Orlando | Intro to Xamarin | Presented | [Meetup](https://www.meetup.com/Orlando-net-Mobile-app-User-Group/events/240225355/) <br/> [Xamarin](https://ti.to/xamarin/dev-days-orlando-2017) |
-| 3/17/18 | 2018 Orlando Code Camp | Visualizing Xamarin.Forms | Submitted | [Orlando&nbsp;Code&nbsp;Camp](http://orlandocodecamp.com/Sessions/Details/58) |
-| 3/17/18 | 2018 Orlando Code Camp | Visualizing Xamarin.Forms | Submitted | [Orlando&nbsp;Code&nbsp;Camp](http://orlandocodecamp.com/Sessions/Details/60) |
+| 3/17/18 | 2018 Orlando Code Camp | Visualizing Xamarin.Forms | Submitted | [Orlando&nbsp;Code&nbsp;Camp](http://orlandocodecamp.com/Sessions/Details/58) <br /> [GitHub](https://github.com/xamarinfiles/presentations/tree/master/VisualizingXamarinForms) |
+| 3/17/18 | 2018 Orlando Code Camp | Next-level Xamarin.Forms | Submitted | [Orlando&nbsp;Code&nbsp;Camp](http://orlandocodecamp.com/Sessions/Details/60) <br /> [GitHub](https://github.com/xamarinfiles/presentations/tree/master/NextLevelXamarinForms) |
