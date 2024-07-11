@@ -1,3 +1,5 @@
+**[2024-07-10] This repo is archived.  The updated list of events, links, and repos is here: [@andylech/talk-list](https://github.com/andylech/talk-list).**
+
 # Presentations for Andy Lech and The Xamarin Files
 
 Demos and slide decks from different presentations about mobile development
